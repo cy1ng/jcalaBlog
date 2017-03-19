@@ -46,8 +46,8 @@ spring:
             config: ehcache.xml
     datasource:
         type: com.zaxxer.hikari.HikariDataSource
-        username: root
-        password: root
+        username: cying
+        password: ya1992924
         url: jdbc:mysql://127.0.0.1:3306/jcala_blog?useUnicode:true&amp;characterEncoding:UTF-8
         driverClassName: com.mysql.jdbc.Driver
         schema: classpath:import.sql
